@@ -98,3 +98,4 @@ _Live coding_
 - [The unknow type](https://devblogs.microsoft.com/typescript/announcing-typescript-3-0-rc-2/#the-unknown-type)
 - [Type assetions](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#type-assertions)
 - [Challenges](https://github.com/type-challenges/type-challenges)
+- [Slides & code](https://github.com/jmserrano-dev/open-space-2021.typescript)
